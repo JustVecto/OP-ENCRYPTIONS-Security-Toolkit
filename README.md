@@ -20,7 +20,7 @@ Instant hashing for text and files
 Hash verification (compare integrity)
 
 🧩 JWT Decoder & Inspector
-Decode and inspect JWT tokens بسهولة
+Decode and inspect JWT tokens
 View header, payload, and signature
 Automatic expiration (exp) checks
 
